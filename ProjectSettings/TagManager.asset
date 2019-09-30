@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ExcludeTeleport
+  - TeleportIgnore
+  - Wall
+  - Command
+  - Boundaries
+  - Building
+  - Door
+  - Ground
+  - Station
+  - Red Target
+  - Blue Target
+  - Green Target
+  - Target
+  - Touchpad Label
+  - Universal Button
+  - Red Button
+  - Blue Button
+  - Green Button
+  - Loop Button
+  - universal button
+  - BoxDetect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
